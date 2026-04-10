@@ -48,6 +48,6 @@ This dashboard solves these challenges by providing a centralized and visual pla
 
 ## 📊 Dashboard Preview
 <p align="center">
-  <img src="https://github.com/Gopal120105/Dental-Analysis-Dashboard/blob/main/Screenshot%202026-04-10%20125240.png" width="400">
-  <img src="assets/images/revenue.png" width="400">
+  <img src="https://github.com/Gopal120105/Dental-Analysis-Dashboard/blob/main/Screenshot%202026-04-10%20125240.png" width="700">
+  <img src="https://github.com/Gopal120105/Dental-Analysis-Dashboard/blob/main/Screenshot%202026-04-10%20125308.png" width="700">
 </p>
